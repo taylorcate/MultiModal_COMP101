@@ -1,8 +1,13 @@
 ![A Meme collage put together by Taylor Brown for the MultiModal COMP 101 Class, 2019](https://raw.githubusercontent.com/taylorcate/MultiModal_COMP101/master/Class_Resources/Images%20and%20Memes/MemeCollage_MultiModalCOMP101.png)
 
-# MultiModal COMP 101
-This repository was created for Dr. Bradshaw's ENGL 402 class and contains a sample class syllabus, teaching statement, and mini-lesson unique to an introductory composition class with a focus on multi-modal means of communication.   
-© Taylor-Cate Brown 
+# MultiModal COMP 101 - Social Protest in Viral Networks
+**Loyola University Chicago, Fall Semester 2019**  
+**MM_COMP101: Section A - MWF 10:00-11:00 am; Crown Center, Rm. 114**  
+
+**Instructor:** Ms. Taylor-Cate Brown  
+**Email:** tbrown18@luc.edu  
+**Office:** RM 019 - Cudahy Library  
+**Office Hours:** M,TUE - 11:00 am-2:00 pm, and by appointment
 
 ## Required Texts: 
 ![Memes to Movements Cover Image, written by An Xiao Mina (2019) and Twitter and Tear Gas: The Power and Fragility of Networked Protest by Zeynep Tufekci (2018)](https://raw.githubusercontent.com/taylorcate/MultiModal_COMP101/master/Class_Resources/Images%20and%20Memes/RequiredTexts_Readme_pic.png)  
